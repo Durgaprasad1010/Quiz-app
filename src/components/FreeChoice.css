@@ -1,0 +1,10 @@
+#free-choice-ans {
+    width: 50rem;
+    height: 3rem;
+    border-radius: 1rem;
+    padding: 0 0.5rem;
+}
+
+.questions {
+    padding: 0.5rem 0.5rem 2rem 0;
+}

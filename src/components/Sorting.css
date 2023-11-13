@@ -1,0 +1,11 @@
+.sort-optn {
+    border-color: rgba(255, 187, 0, 0.881);
+    background: white;
+    width: 40rem;
+    height: 3rem;
+    margin: 0.5rem;
+}
+
+#sort-order {
+    font-size: 1.2rem;
+}
